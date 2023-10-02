@@ -17,7 +17,7 @@ export default function App() {
     <NavigationContainer>
       <View style={styles.container}>
         {renderParis()}
-        <Text>Bienvenue</Text>
+        <Text>Bienvenue Bienvenidos</Text>
         <Text>CLUB LA SANTE-HISTORIA CLINICA</Text>
         <Text></Text>
         <StatusBar style="auto" />
