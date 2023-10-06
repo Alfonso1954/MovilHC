@@ -32,7 +32,7 @@ function renderParis() {
   return (
     <Image
       source={require("./src/assets/Paris.png")}
-      style={{ width: 75, height: 175, top: -15 }}
+      style={{ width: 120, height: 175, top: -15 }}
     />
   );
 }
@@ -44,7 +44,7 @@ function renderConvenios() {
   return (
     <Image
       source={require("./src/assets/Convenios.png")}
-      style={{ width: 75, height: 175, top: -15 }}
+      style={{ width: 50, height: 100, top: -10 }}
     />
   );
 }
